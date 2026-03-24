@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Models (If they are too big for GitHub)
+*.pkl
+
+# Node / Frontend
+node_modules/
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
